@@ -1,0 +1,44 @@
+Initialize engine version: 4.6.2f1 (bd99309c2ad7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\College\CMSC425\SideScrollingShooter(Final)\SideShooter_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\College\CMSC425\SideScrollingShooter(Final)\SideShooter_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\College\CMSC425\SideScrollingShooter(Final)\SideShooter_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\College\CMSC425\SideScrollingShooter(Final)\SideShooter_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\College\CMSC425\SideScrollingShooter(Final)\SideShooter_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\College\CMSC425\SideScrollingShooter(Final)\SideShooter_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.166 seconds
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: E:\College\CMSC425\SideScrollingShooter(Final)\SideShooter_Data\Managed\System.Core.dll (this message is harmless)
+UnloadTime: 0.856980 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 403.
+Total: 2.710064 ms (FindLiveObjects: 0.057017 ms CreateObjectMapping: 0.031930 ms MarkObjects: 0.527986 ms  DeleteObjects: 0.039342 ms)
+
+Platform assembly: E:\College\CMSC425\SideScrollingShooter(Final)\SideShooter_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 1.629573 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 400.
+Total: 2.107384 ms (FindLiveObjects: 0.053596 ms CreateObjectMapping: 0.031930 ms MarkObjects: 0.423073 ms  DeleteObjects: 0.038772 ms)
+
+UnloadTime: 1.997909 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 400.
+Total: 2.046945 ms (FindLiveObjects: 0.054167 ms CreateObjectMapping: 0.031930 ms MarkObjects: 0.423643 ms  DeleteObjects: 0.013114 ms)
+
+UnloadTime: 3.590421 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 211.
+Total: 9.089234 ms (FindLiveObjects: 0.038202 ms CreateObjectMapping: 0.039342 ms MarkObjects: 0.470968 ms  DeleteObjects: 6.880928 ms)
+
